@@ -1,0 +1,170 @@
+[{
+	"Producto" : "Aneurismas",
+  "Productos": [{
+  	"Categoria"  : "acceso",
+    "Titulo"     : "Silverspeed, X-pedion y X-celerator",
+    "Tipo"       : "Microguías",
+    "Archivo"    : "neu_1",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+  },{
+  	"Categoria"  : "acceso",
+    "Titulo"     : "Echelon",
+    "Tipo"       : "Microcatéter",
+    "Archivo"    : "neu_2",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+
+
+
+  }]
+},
+
+ {
+	"Producto" : "Embolización con Coils",
+  "Productos": [{
+  	"Categoria"  : "Acceso Visceral",
+    "Titulo"     : "Axium",
+    "Tipo"       : "Coil Neurovascular de Liberación Mecánica",
+    "Archivo"    : "neu_3",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+
+  }]
+},
+
+ {
+	"Producto" : "Remodelacionde cuello",
+  "Productos": [{
+  	"Categoria"  : "Remodelacionde cuello",
+    "Titulo"     : "Solitaire AB",
+    "Tipo"       : "Stent Recuperable de Liberación Controlada",
+    "Archivo"    : "neu_4",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+},{
+  	"Categoria"  : "Remodelacionde cuello",
+    "Titulo"     : "HyperGlide y HyperForm",
+    "Tipo"       : "Balones Supercomplacientes",
+    "Archivo"    : "neu_5",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+},{
+
+  	"Categoria"  : "Tratamiento por Diversión de Flujo",
+    "Titulo"     : "Pipeline",
+    "Tipo"       : "Diversor de Flujo",
+    "Archivo"    : "neu_6",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+  },{
+
+  	"Categoria"  : "Tratamiento por Diversión de Flujo",
+    "Titulo"     : "Pipeline",
+    "Tipo"       : "Diversor de Flujo",
+    "Archivo"    : "neu_6",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+
+  }]
+},
+
+
+{
+	"Producto" : "MAV’S Y FISTULAS A-V",
+  "Productos": [{
+  	"Categoria"  : "Embolización",
+    "Titulo"     : "Onyx",
+    "Tipo"       : "Líquido embólico",
+    "Archivo"    : "neu_7",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+},{
+
+  	"Categoria"  : "Acceso",
+    "Titulo"     : "Marathon",
+    "Tipo"       : "Microcatéteres de Flujo",
+    "Archivo"    : "neu_8",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+},{
+
+  	"Categoria"  : "Acceso",
+    "Titulo"     : "Apollo",
+    "Tipo"       : "Punta Desprendible",
+    "Archivo"    : "neu_9",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+},{
+
+  	"Categoria"  : "Acceso",
+    "Titulo"     : "Mirage",
+    "Tipo"       : "Microguía 0.008”",
+    "Archivo"    : "neu_10",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+
+
+  }]
+},
+
+{
+	"Producto" : "STROKE",
+  "Productos": [{
+  	"Categoria"  : "Rescate Vascular Mecánico y Angioplastí",
+    "Titulo"     : "Solitaire FR",
+    "Tipo"       : "Stent Recuperable de Liberación Controlada",
+    "Archivo"    : "neu_11",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+
+
+  }]
+},
+
+{
+	"Producto" : "Embolización de Tumores",
+  "Productos": [{
+  	"Categoria"  : "Tumores Neurovasculares",
+    "Titulo"     : "Embosphere",
+    "Tipo"       : "Microesferas",
+    "Archivo"    : "neu_12",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+  },{
+      "Categoria"  : "Tumores Neurovasculares",
+    "Titulo"     : "Onyx",
+    "Tipo"       : "Líquido Embólico",
+    "Archivo"    : "neu_13",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+
+
+  }]
+},
+
+
+{
+	"Producto" : "Carótidas",
+  "Productos": [{
+  	"Categoria"  : "Agiplastía Carotídea",
+    "Titulo"     : "Protégé Rx y  SpiderFx",
+    "Tipo"       : "Stent Carotídeo y Filtro de Protección Distal",
+    "Archivo"    : "neu_14",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+
+
+  }]
+},
+
+{
+	"Producto" : "varios",
+  "Productos": [{
+  	"Categoria"  : "Recuperación de cuerpos Extraños",
+    "Titulo"     : "Goose Neck Microsnare",
+    "Tipo"       : "Lazo Amplatz",
+    "Archivo"    : "neu_15",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+  },{
+      "Categoria"  : "Recuperación de cuerpos Extraños",
+    "Titulo"     : "Alligator",
+    "Tipo"       : "Recuperador de Cuerpos Extraños",
+    "Archivo"    : "neu_16",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+},{
+      "Categoria"  : "Medición de Tiempo de Coagulación Activado ACT",
+    "Titulo"     : "Actalyke MINI II",
+    "Tipo"       : "",
+    "Archivo"    : "neu_17",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+
+
+
+  }]
+}]

@@ -1,0 +1,240 @@
+[
+    {
+        "Producto": "Angiolastía Miembros Inferiores",
+        "Productos": [
+            {
+                "Categoria": "Iliacas y Grandes Vasos",
+                "Titulo": "EverCross 0.035″",
+                "Tipo": "Balón OTW",
+                "Archivo": "vas_1",
+                "Sintesis": "The bevel 360 tip is a smooth transition from tip to wire for sleek advancement. The tip design creates close tracking to the wire for more effective engagement with lesions. "
+            },
+            {
+                "Categoria": "Iliacas y Grandes Vasos",
+                "Titulo": "Protégé GPS",
+                "Tipo": "Stent Autoexpandible",
+                "Archivo": "vas_2",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            },
+            {
+                "Categoria": "Iliacas y Grandes Vasos",
+                "Titulo": "vi-Pro",
+                "Tipo": "Stent Expandido por Balón",
+                "Archivo": "vas_3",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            },
+            {
+                "Categoria": "Iliacas y Grandes Vasos",
+                "Titulo": "IntraStent",
+                "Tipo": "Stent Desmontado",
+                "Archivo": "vas_4",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            },
+            {
+                "Categoria": "Femoral",
+                "Titulo": "EverCross 0.035",
+                "Tipo": "Balón OTW",
+                "Archivo": "vas_5",
+                "Sintesis": "Unique PushPlusTM Catheter design provides an average of 29% more pushability than the leading competitive support catheters. Robust outer layer catheter provides superior pushability. Lubricious inner layer catheter enables smooth guidewire movement"
+            },
+            {
+                "Categoria": "Femoral",
+                "Titulo": "Protégé Everflex",
+                "Tipo": "Stent Autoexpandible",
+                "Archivo": "vas_6",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            },
+            {
+                "Categoria": "Femoral",
+                "Titulo": "TrailBlazer 0.035",
+                "Tipo": "Catéter de Soporte",
+                "Archivo": "vas_7",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            },
+            {
+                "Categoria": "Femoral",
+                "Titulo": "TurboHawk",
+                "Tipo": "Aterotomo",
+                "Archivo": "vas_8",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            },
+            {
+                "Categoria": "Tibial",
+                "Titulo": "NanoCross 0.014″",
+                "Tipo": "Balones OTW",
+                "Archivo": "vas_9",
+                "Sintesis": "Introducing PowerCrossTM  The next generation in PTA Balloon technology from ev3. Experience the power of refined pushability with the enhanced OTW .018' balloon designed to cross smoothly and deflate quickly."
+            },
+            {
+                "Categoria": "Tibial",
+                "Titulo": "PowerCross 0.018″",
+                "Tipo": "Balones OTW",
+                "Archivo": "vas_10",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            },
+            {
+                "Categoria": "Tibial",
+                "Titulo": "TrailBlazer 0.014″",
+                "Tipo": "Catéter de soporte",
+                "Archivo": "vas_11",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            }
+        ]
+    },
+    {
+        "Producto": "Anglioplastía Carotídea",
+        "Productos": [
+            {
+                "Categoria": "Anglioplastía Carotídea",
+                "Titulo": "Protégé Rx y Spider Fx",
+                "Tipo": "Stent Carotídeo y Filtro de Protección Distal",
+                "Archivo": "vas_12",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            }
+        ]
+    },
+    {
+        "Producto": "Embolización",
+        "Productos": [
+            {
+                "Categoria": "Acceso Visceral",
+                "Titulo": "Maestro",
+                "Tipo": "Microcatéter",
+                "Archivo": "vas_13",
+                "Sintesis": "Merit Maestro Microcatheter Flexible Distal Region 20 cm, designed for atraumatic vessel entry, HyDRopHilic coating Distal 80 cm for smooth traction through tortuous anatomy RaDiopaque maRkeR for easy identification of distal tip of catheter. Located 1.3 mm proximal to the distal tip new swan neck Design high performance of preshaped distal end ideal for access of hepatic artery"
+            },
+            {
+                "Categoria": "Acceso Visceral",
+                "Titulo": "Tenor",
+                "Tipo": "Microguía",
+                "Archivo": "vas_14",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            },
+            {
+                "Categoria": "Miomas Uterinos y Tumores",
+                "Titulo": "Gandras",
+                "Tipo": "Catéter para Canulación de Arteria Uterina",
+                "Archivo": "vas_15",
+                "Sintesis": "Embosphere® Microspheres, the most clinically studied round embolic, provide consistent and predictable results for effective embolization.  With Embosphere Microspheres, you get the durable and consistent clinical outcomes you expect in an embolic that has been used in over 100,000 procedures worldwide. Embosphere Microspheres‘ unique non-resorbable, resilient, and cell adhesion properties provide unparalleled durability and ease of use. For predictable clinical results, trust Embosphere Microspheres from BioSphere Medical, the leader in microsphere embolization."
+            },
+            {
+                "Categoria": "Miomas Uterinos y Tumores",
+                "Titulo": "EmboSphere",
+                "Tipo": "Microesferas",
+                "Archivo": "vas_16",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            },
+            {
+                "Categoria": "Miomas Uterinos y Tumores",
+                "Titulo": "EmboGold",
+                "Tipo": "Microesferas",
+                "Archivo": "vas_17",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            },
+            {
+                "Categoria": " Hepatocarcinomas y Metástasis Colorrectal",
+                "Titulo": "HepaSphere",
+                "Tipo": "Microesferas Liberadoras de Doxorrubicina e Irinotecan",
+                "Archivo": "vas_18",
+                "Sintesis": "hqTACE provides calibrated sizing, efficient loading, effective drug delivery, and robust handling properties to help ensure effective treatment of the targeted tumor, and clinical confidence."
+            },
+            {
+                "Categoria": "Vasos, Fístulas y MAVs",
+                "Titulo": "Amplatzer Vascular Plug",
+                "Tipo": "Tapón Vascular",
+                "Archivo": "vas_19",
+                "Sintesis": "With a track record of over 200,000 units sold, OnyxTM LES has earned the confidence of physicians worldwide. Our proven professional education curriculum forms a true partnership in patient care. Along with a full suite of compatible Access products, no one offers more solutions for embolization. The OnyxTM liquid embolic agent is an EVOH co-polymer designed to provide full penetration and complete occlusion of vascular lesions"
+            },
+            {
+                "Categoria": "Vasos, Fístulas y MAVs",
+                "Titulo": "Onyx",
+                "Tipo": "Líquido Embólico",
+                "Archivo": "vas_20",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            },
+            {
+                "Categoria": "Vasos, Fístulas y MAVs",
+                "Titulo": "Axium",
+                "Tipo": "Coil de Liberación Mecánica",
+                "Archivo": "vas_21",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            }
+        ]
+    },
+    {
+        "Producto": "Venas",
+        "Productos": [
+            {
+                "Categoria": "Trombosis venosa profunda y TEP",
+                "Titulo": "Option",
+                "Tipo": "Filtro de Vena Cava 5F",
+                "Archivo": "vas_22",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            },
+            {
+                "Categoria": "Trombosis venosa profunda y TEP",
+                "Titulo": "Pronto 0.035",
+                "Tipo": "Catéter de Tromboaspiración Mecánica",
+                "Archivo": "vas_23",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            },
+            {
+                "Categoria": "Ablación de Venas",
+                "Titulo": "Varilase",
+                "Tipo": "Sistema de Láser Endovenoso",
+                "Archivo": "vas_24",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            }
+        ]
+    },
+    {
+        "Producto": "Hemodíalisis",
+        "Productos": [
+            {
+                "Categoria": "Acceso para hemodiálisis",
+                "Titulo": "UltraStream",
+                "Tipo": "Catéter Crónico de Hemodiálisis",
+                "Archivo": "vas_25",
+                "Sintesis": "Vari-Lase Endovenous Laser Therapy Products Vascular Solutions provides a full line of procedure kits, customized procedure packs, micro-introducers and accessories in addition to the Vari-Lase 15W "
+            },
+            {
+                "Categoria": "Rescate de Fistulas AV",
+                "Titulo": "Pronto Short",
+                "Tipo": "Catéter de Tromboaspiración Mecánica de FAV",
+                "Archivo": "vas_26",
+                "Sintesis": "The bevel 360 tip is a smooth transition from tip to wire for sleek advancement. The tip design creates close tracking to the wire for more effective engagement with lesions."
+            },
+            {
+                "Categoria": "Ablación de Venas",
+                "Titulo": "EverCross 0.035",
+                "Tipo": "Balón OTW",
+                "Archivo": "vas_27",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            }
+        ]
+    },
+    {
+        "Producto": "Aneurisma Aórtico Abdominal",
+        "Productos": [
+            {
+                "Categoria": "Endoprótesis para reparación de Aneurisma Aórtico-Abdominal",
+                "Titulo": "Ovation Prime",
+                "Tipo": "Endoprótesis Aorto-Abdominal",
+                "Archivo": "vas_28",
+                "Sintesis": "Dedicated to serving patients with aortic disease, TriVascular is committed to providing optimal solutions for endovascular aortic repair (EVAR). TriVascular’s initial product offerings are novel endovascular grafts focused on significantly advancing EVAR. Building upon partnerships with thought-leading clinicians worldwide, TriVascular designs products to address unmet clinical needs and expand the pool  of patients who are candidates for EVAR. "
+            }
+        ]
+    },
+    {
+        "Producto": "Biópsias Percutánea",
+        "Productos": [
+            {
+                "Categoria": "Hunter",
+                "Titulo": "Protégé Rx y Spider Fx",
+                "Tipo": "Dispositivo para Sellado de Biopsia Percutánea",
+                "Archivo": "vas_29",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            }
+        ]
+    }
+]

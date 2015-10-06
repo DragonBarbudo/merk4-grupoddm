@@ -1,0 +1,174 @@
+
+include site/_config.jade
+
++html5
+  +head(title, stylesheets, keywords, description)
+  body(ng-app="theApp")
+    
+    header(data-sr="enter top move 24px scale 0%", data-scroll-header, role="main")
+      #header
+        .container
+          .logotipo
+            a(href="#inicio", data-scroll): img(src="site/img/ddm_logotipo.png")
+          nav.col10.push1.col-t12.push-t0.col-m12.push-m0
+            +menu('inicio', menu, 'horizontal', '#', ' ', '', {'data-scroll':true, 'du-scrollspy':true, 'offset':'200'} )
+      
+      +sliderbg('#inicio', 'site/img/slider1.jpg')
+    section#inicio
+      a(href="#productos", data-scroll).getInBtn
+        img(src="site/img/ddm_logotipo.png", alt="DDM")
+        div Entrar
+
+
+
+                
+    section#productos
+      header(role="heading", data-sr="enter bottom scale down 50%")
+        .container
+          h2.col12 Productos
+      .container(ng-controller="loadCardiologia").w100
+        a(href="#", role="contentinfo", ng-click="showThis = !showThis").col9.push3.col-t12.push-t0.col-m12.push-m0.card: span Cardiología
+        +productContent    
+      .container(ng-controller="loadVascular").w100
+        a(href="#", role="contentinfo", ng-click="showThis = !showThis").col9.push3.col-t12.push-t0.col-m12.push-m0.vas: span Vascular periférico
+        +productContent
+      .container(ng-controller="loadNeuro").w100
+        a(href="#", role="contentinfo", ng-click="showThis = !showThis").col9.push3.col-t12.push-t0.col-m12.push-m0.neu: span Neurovascular
+        +productContent
+      .container(ng-controller="loadCCol").w100
+        a(href="#", role="contentinfo", ng-click="showThis = !showThis").col9.push3.col-t12.push-t0.col-m12.push-m0.cir: span Cirugía de columna
+        +productContent
+      .container(ng-controller="loadCGen").w100
+        a(href="#", role="contentinfo", ng-click="showThis = !showThis").col9.push3.col-t12.push-t0.col-m12.push-m0.cirg: span Cirugía general y torácica
+        +productContent
+        
+    section#educacion
+      header(role="heading", data-sr="enter bottom scale down 50%")
+        .container
+          h2.col12 Educación
+      .container.w100
+        a(href="#" role="contentinfo").col9.push3.col-t12.push-t0.col-m12.push-m0.prof: span Profesionales de la salud
+      .container.w100
+        a(href="#" role="contentinfo").col9.push3.col-t12.push-t0.col-m12.push-m0.esp: span Especialistas    
+    
+    section#acerca-de-nosotros
+      header(role="heading", data-sr="enter bottom scale down 50%")
+        .container
+          h2.col12 ¿Quiénes somos?
+      .container.spacedTop
+        .col9.push3.col-t12.push-t0.col-m12.push-m0
+          h3 Nuestra compañía
+          p Grupo DDM se especializa en nuevas tecnologías biomédicas. Crecemos rápidamente en la distribución de dispositivos médicos, colaborando con hospitales de alta especialización para llevarles siempre los mejores productos con el mejor servicio. Contamos con una cobertura nacional en México y presencia en Centroamérica. Nuestras principales tecnologías biomédicas se enfocan a las áreas de Intervencionismo Vascular, Cirugía de Columna y de alta especialidad.
+          h3 Visión
+          p Grupo DDM se proyecta como pieza fundamental en el área de la salud en México y Latinoamérica, introduciendo nuevas tecnologías biomédicas y en el diseño y desarrollo de nuevas soluciones. Manteniéndonos en los más altos niveles de competitividad del sector mediante un servicio especializado, responsable, con calidad humana, a través de personal íntegro, profesional, capacitado y sobre todo comprometido en colaborar directamente con la comunidad médica en beneficio del cuidado de los pacientes.
+          h3 Misión
+          p “Ayudar a la Gente a curar a la gente”. Ayudar mediante la alta especialización y profesionalismo de sus colaboradores, brindando un servicio y asesoría responsable con calidad humana a la comunidad médica y sus pacientes, siendo la organización que se distingue por una constante innovación, gran dinamismo y liderazgo en la introducción y desarrollo de nuevas tecnologías para el cuidado de la salud.
+          h3 Valores
+          .container
+            ul.col8.col-m12
+              li Calidad humana
+              li Satisfacción del cliente (Médicos y Pacientes)
+              li Calidad de nuestros productos
+              li Trabajo en equipo
+            ul.col4.col-m12
+              li Responsabilidad
+              li Integridad
+              li Innovación
+              li Servicio
+    section#nuestras-presentaciones
+      header(role="heading", data-sr="enter bottom scale down 50%")
+        .container
+          h2.col12 Nuestras presentaciones
+          
+      - var empresas = []
+      - empresas.push(['http://professional.sjm.com/products/sh/heart-occluders/asd-closure-devices', 'amplatzer.png'])
+      - empresas.push(['', 'radianalyzer.png'])
+      - empresas.push(['','acist.png'])
+      - empresas.push(['', 'covidien.png'])
+      - empresas.push(['', 'meritmedica.png'])
+      - empresas.push(['', 'vascular.jpg'])
+      - empresas.push(['', 'elixir.jpg'])
+      - empresas.push(['', 'trivascular.jpg'])
+      - empresas.push(['', 'biometrix.jpg'])
+      - empresas.push(['', 'oscor.jpg'])
+      - empresas.push(['', 'k2m.jpg'])
+      - empresas.push(['', 'baylis.jpg'])
+      - empresas.push(['', 'helena.jpg'])
+      - empresas.push(['', 'argon.jpg'])
+      - empresas.push(['', 'itgimedical.jpg'])
+      - empresas.push(['', 'zipline.png'])
+      
+      mixin prseccion(i1, i2, i3, i4, i5)
+        .container.presentaciones
+          .push2.col2.push-t1.push-m1: a(href=i1[0], target="blank"): img(src="site/img/np/#{i1[1]}", alt="").w100
+          if i2
+            .col2: a(href=i2[0], target="blank"): img(src="site/img/np/#{i2[1]}", alt="").w100
+          if i3
+            .col2: a(href=i3[0], target="blank"): img(src="site/img/np/#{i3[1]}", alt="").w100
+          if i4
+            .col2: a(href=i4[0], target="blank"): img(src="site/img/np/#{i4[1]}", alt="").w100
+          if i5
+            .col2: a(href=i5[0], target="blank"): img(src="site/img/np/#{i5[1]}", alt="").w100          
+      .spacedTop
+        +prseccion(empresas[0], empresas[1], empresas[2], empresas[3], empresas[4])
+        +prseccion(empresas[5], empresas[6], empresas[7], empresas[8], empresas[9])
+        +prseccion(empresas[10], empresas[11], empresas[12], empresas[13], empresas[14])
+        +prseccion(empresas[15])
+    
+    section#historia
+      header(role="heading", data-sr="enter bottom scale down 50%")
+        .container
+          h2.col12 Historia
+      .container.spacedTop
+        .col9.push3.col-t12.push-t0.col-m12.push-m0
+          h3 Nuestra historia
+          p Grupo DDM fue establecido en 1989, con la misión de “ayudar a la gente a curar a la gente”, desde entonces nos hemos enfocado en la introducción en Latinoamérica de nuevas tecnologías biomédicas. Algunas de estas han sido:            
+          h3 Área cardiovascular
+          ul
+            li CVIS, Cardiovascular Imaging Systems, hoy el IVUS de Boston Scientific
+            li ACS, después Guidant, hoy Abbott Vascular
+            li Jomed, hoy Abbott Vascular
+            li IVT, hoy el Cutting Balloon de Boston Scientific
+            li Amplatzer / AGA Medical, hoy St Jude Medical
+            li Radi Medical Systems, hoy St jude Medical
+            li Endicor, después ev3, hoy Covidien
+            li MTI y ev3, hoy Covidien
+          h3 Otras áreas
+          ul
+            li Prostakat
+            li Biovac
+            li Velasmooth
+            
+    
+    section#contacto
+      header(role="heading", data-sr="enter bottom scale down 50%").gmap
+        .container
+          h2.col12 Contacto
+      - var adds = []
+      - adds.push([[19.4142777, -99.1585195], 'Oficina Matriz', 'San Luis Potosí 96 Col. Roma<br> C.P. 06700, México, D.F.<br>Tel. (+5255) 55841516', 'info@ddm.com.mx'])
+      - adds.push([[25.6732109, -100.309201], 'Sucursal Monterrey, N.L.', 'Tel. 8183478730', 'lauras@ddm.com.mx'])
+      - adds.push([[20.67359,-103.343803], 'Sucursal Gdl, Jalisco', 'Tel. 3336304794', 'normag@ddm.com.mx'])
+      - adds.push([[22.1564699, -100.9855409], 'San Luis Potosí, S.L.P.', 'Tel. 4441271515', 'disermed@ddm.com.mx'])
+      - adds.push([[29.0891857,-110.9613299], 'Hermosillo, Son.', 'Dispositivos Médicos y Catéteres, S.A. de C.V. <br>Tel. 6622170037', 'hector@dimedica.com.mx'])
+      - adds.push([[19.1902778,-96.1533333], 'Veracruz, Ver.', 'Tel. (55) 5555841355', 'ddm@ddm.com.mx'])
+      - adds.push([[25.5428443,-103.4067861], 'Torreón, Coah.', 'Tel. 8712338239', 'cristinat@ddm.com.mx'])
+      - adds.push([[20.97,-89.62], 'Mérida, Yuc.', 'ATSA del Sureste, S.A. de C.V. <br>Tel. 9999435555', 'felipeg@gargom.com.mx'])
+      - adds.push([[32.5551524,-115.5510556], 'Mexicali, B.C.', 'Medigrup, S.A. de C.V. <br>Tel. 6865528720', 'franfer2@prodigy.net.mx'])
+      - adds.push([[21.1326654,-101.6782926], 'León, Gto.', 'Tel. 4777676344', 'monicar@ddm.com.mx'])
+      - adds.push([[19.0413068,-98.2061934], 'Puebla, Pue.', 'Suministros Médicos de México S.A. de C.V. <br>Tel. 2226044913', 'luism@sumed.com.mx'])
+      - adds.push([[17.987557,-92.929147], 'Villahermosa, Tab.', 'Tel. 9932933533', 'juanma@ddm.com.mx'])
+      - adds.push([[27.4938889,-109.9388889], 'Cd. Obregón, Son.', 'Tel. 6441329504', 'franciscov@ddm.com.mx'])
+      - adds.push([[28.6329957,-106.0691004], 'Chihuahua, Chi.', 'Cardioactiva SC <br>Tel. 6142368007', 'uliseschairez@mmeusa.com.mx'])
+      .container.addresses
+        - each ad in adds
+          .col3.col-t4.col-m6.ad
+            .ti= ad[1]
+            .dir !{ad[2]}
+            a(href="mailto:#{ad[3]}").mail= ad[3]
+            a(href="#", onClick="map.setCenter(#{ad[0][0]}, #{ad[0][1]}); map.setZoom(16)").see Ver en mapa
+    
+    footer
+      .container
+        a(href="#") Aviso de privacidad
+    
+    +scripts

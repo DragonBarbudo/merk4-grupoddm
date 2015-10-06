@@ -1,0 +1,68 @@
+include ../dw/dw.jade
+
+- var domain = "index.html"
+
+//- METAS
+- var title = "Grupo DDM | Calidad Humana"
+- var keywords = ""
+- var description = ""
+
+//- STYLESHEETS
+- var stylesheets = []
+- stylesheets.push('http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css')
+- stylesheets.push('http://fonts.googleapis.com/css?family=Droid+Sans:400,700')
+- stylesheets.push('http://cdn.jsdelivr.net/jquery.slick/1.5.7/slick.css')
+- stylesheets.push('https://cdnjs.cloudflare.com/ajax/libs/jquery.swipebox/1.4.1/css/swipebox.min.css')
+- stylesheets.push('site/css/style.css') //Main style
+
+//- JAVASCRIPTS
+- var javascripts = []
+- javascripts.push('http://cdnjs.cloudflare.com/ajax/libs/headjs/1.0.3/head.core.min.js')
+- javascripts.push('https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js')
+- javascripts.push('http://cdn.jsdelivr.net/jquery.slick/1.5.7/slick.min.js')
+- javascripts.push('https://cdnjs.cloudflare.com/ajax/libs/jquery.swipebox/1.4.1/js/jquery.swipebox.min.js')
+- javascripts.push('https://cdnjs.cloudflare.com/ajax/libs/jquery-backstretch/2.0.4/jquery.backstretch.min.js')
+- javascripts.push('https://cdnjs.cloudflare.com/ajax/libs/scrollReveal.js/2.3.2/scrollReveal.min.js')
+- javascripts.push('https://cdnjs.cloudflare.com/ajax/libs/smooth-scroll/7.0.2/js/smooth-scroll.min.js')
+- javascripts.push('http://maps.google.com/maps/api/js?sensor=true')
+- javascripts.push('https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js')
+- javascripts.push('https://cdnjs.cloudflare.com/ajax/libs/angular-scroll/0.7.2/angular-scroll.min.js')
+- javascripts.push('site/js/angular-slick.js')
+- javascripts.push('site/js/gmaps.js')
+- javascripts.push('site/js/script.js') //Main Js
+
+//- MENU
+- var menu = [] //- menu.push('PageName', 'Slug')
+- menu.push(['Inicio', 'inicio']) //[0]
+- menu.push(['Productos', 'productos']) //[1]
+- menu.push(['Educación', 'educacion']) //[2]
+- menu.push(['Acerca de nosotros', 'acerca-de-nosotros']) //[3]
+- menu.push(['Contacto', 'contacto'])
+
+
+
+
+
+
+
+mixin productContent
+  .col12.infoProductos(ng-repeat="pr in productos", on-finish-render="slideUpd()", ng-class=" showThis ? 'openPrd' : 'closePrd' ")
+    .container
+      .col3.col-m12
+        h3 {{pr.Producto}}
+      .col9.col-m12
+        .slider.multiple 
+          div(ng-repeat="prs in pr.Productos")
+            .prod
+              .sintesis(ng-show="sintesisShow[prs.Archivo]")
+                h4.titulo {{prs.Titulo}}
+                p {{prs.Sintesis}}
+                a(ng-click="mostrarSinstesis(false, prs.Archivo)").cerrar: i.fa.fa-close
+                a(href="productos/archivos/{{prs.Archivo}}.pdf", target="_blank").downloadDoc Descargar
+              .container(ng-click="mostrarSinstesis(true, prs.Archivo)")
+                .col12
+                  .categoria {{prs.Categoria}}
+                .col6.col-t12.col-m12
+                  h4.titulo {{prs.Titulo}}
+                    span {{prs.tipo}}
+                .col6.col-t12.col-m12: img(ng-src="productos/archivos/{{prs.Archivo}}.jpg").w100

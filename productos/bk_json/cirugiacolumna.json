@@ -1,0 +1,100 @@
+[{
+	"Producto" : "Deformidad y Escoliosis",
+  "Productos": [{
+  	"Categoria"  : "Fusión Posterior para Corrección de Escoliosis ",
+    "Titulo"     : "MESA Deformity",
+    "Tipo"       : "Tornillo Transpedicular Cero Perfil",
+    "Archivo"    : "cdc_1",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+  },{
+  	"Categoria"  : "Fusión Posterior para Corrección de Escoliosis",
+    "Titulo"     : "Echelon",
+    "Tipo"       : "Tornillo Transpedicular Poliaxial con Tornillo de Bloqueo y Ganchos Transpediculares y Lumbares",
+    "Archivo"    : "cdc_2",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+  },{
+
+  	"Categoria"  : "Fusión Posterior para Corrección de Escoliosis",
+    "Titulo"     : "Natural Bridge LP",
+    "Tipo"       : "Conectores Transversales Barra a Barra Semiajustable (Crosslink",
+    "Archivo"    : "cdc_3",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+
+  }]
+},
+{
+	"Producto" : "Degenerativa Lumbar",
+  "Productos": [{
+  	"Categoria"  : "Fusión Posterior Lumbar ",
+    "Titulo"     : "MESA",
+    "Tipo"       : "Tornillo Transpedicular Cero Perfil",
+    "Archivo"    : "cdc_4",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+  },{
+  	"Categoria"  : "Fusión Posterior Lumbar",
+    "Titulo"     : "Denali",
+    "Tipo"       : "Tornillo Transpedicular",
+    "Archivo"    : "cdc_5",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+  },{
+
+  	"Categoria"  : "Fusión Posterior Lumbar",
+    "Titulo"     : "Aleutian TLIF",
+    "Tipo"       : "Caja de Peek Lumbar",
+    "Archivo"    : "cdc_6",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+},{
+
+  	"Categoria"  : "Fusión Posterior Lumbar",
+    "Titulo"     : "Natural Bridge LP",
+    "Tipo"       : "Conectores Transversales Barra a Barra Semiajustable (Crosslink)",
+    "Archivo"    : "cdc_7",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+
+
+  }]
+},
+
+
+{
+	"Producto" : "Cervical",
+  "Productos": [{
+  	"Categoria"  : "Fusión Anterior Cervical ",
+    "Titulo"     : "Pyrenees",
+    "Tipo"       : "Placa Cervical",
+    "Archivo"    : "cdc_8",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+  },{
+   	"Categoria"  : "Fusión Anterior Cervical ",
+    "Titulo"     : "Aleutian Cervical",
+    "Tipo"       : "Caja de Peek Cervical Anterior",
+    "Archivo"    : "cdc_9",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+},{
+   	"Categoria"  : "Fusión Posterior Cervical ",
+    "Titulo"     : "Denali Mini",
+    "Tipo"       : "Tornillo Cervical Posterior",
+    "Archivo"    : "cdc_10",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+},{
+   	"Categoria"  : "Fusión Posterior Cervical ",
+    "Titulo"     : "Mesa Mini",
+    "Tipo"       : "Tornillo Cervical Posterior",
+    "Archivo"    : "cdc_11",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+
+
+  }]
+},
+{
+	"Producto" : "Mínima Invasiva",
+  "Productos": [{
+  	"Categoria"  : " Fusión Posterior Lumbar por Abordaje Mínimo Invasivo ",
+    "Titulo"     : "Serengeti",
+    "Tipo"       : "Sistema Lumbar Mínimo Invasivo",
+    "Archivo"    : "cdc_8",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+
+
+  }]
+}]

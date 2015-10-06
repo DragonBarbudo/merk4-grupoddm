@@ -1,0 +1,19 @@
+[{
+	"Producto" : "Drenaje Post-Quirúrgico",
+  "Productos": [{
+  	"Categoria"  : "Drenaje post-quirúrgico cerrado ",
+    "Titulo"     : "",
+    "Tipo"       : "Drenaje cerrado Biovac",
+    "Archivo"    : "cgt_1",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+  },{
+      "Categoria"  : "Drenaje Pleural ",
+    "Titulo"     : "",
+    "Tipo"       : "Drenaje pleural con sello de agua Thorametrix",
+    "Archivo"    : "cgt_1",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+  }]
+}]
+
+
+  

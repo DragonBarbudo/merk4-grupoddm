@@ -1,0 +1,168 @@
+[
+    {
+        "Producto": "Aneurismas",
+        "Productos": [
+            {
+                "Categoria": "acceso",
+                "Titulo": "Silverspeed, X-pedion y X-celerator",
+                "Tipo": "Microguías",
+                "Archivo": "neu_1",
+                "Sintesis": "Start with EchelonTM. Finish with confidence. Every procedure is different. And the tools you choose can make a difference. So we make sure Echelon micro catheters are designed to outperform the others. Need proof? Read on. Then be sure to insist on Echelon."
+            },
+            {
+                "Categoria": "acceso",
+                "Titulo": "Echelon",
+                "Tipo": "Microcatéter",
+                "Archivo": "neu_2",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            }
+        ]
+    },
+    {
+        "Producto": "Embolización con Coils",
+        "Productos": [
+            {
+                "Categoria": "Acceso Visceral",
+                "Titulo": "Axium",
+                "Tipo": "Coil Neurovascular de Liberación Mecánica",
+                "Archivo": "neu_3",
+                "Sintesis": "The Axium Detachable Coil System was designed using the k-Factor algorithm to optimize the relationship of primary wire, outer diameter, and loop diameter to achieve a balance of softness, stability and volume through the entire coil line."
+            }
+        ]
+    },
+    {
+        "Producto": "Remodelacionde cuello",
+        "Productos": [
+            {
+                "Categoria": "Remodelacionde cuello",
+                "Titulo": "Solitaire AB",
+                "Tipo": "Stent Recuperable de Liberación Controlada",
+                "Archivo": "neu_4",
+                "Sintesis": "SolitaireTM AB Neurovascular Remodeling Device is the only self-expanding stent designed for bridging the neck of aneurysms that can be completely retrieved, even when fully deployed for unmatched procedural control."
+            },
+            {
+                "Categoria": "Remodelacionde cuello",
+                "Titulo": "HyperGlide y HyperForm",
+                "Tipo": "Balones Supercomplacientes",
+                "Archivo": "neu_5",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            },
+            {
+                "Categoria": "Tratamiento por Diversión de Flujo",
+                "Titulo": "Pipeline",
+                "Tipo": "Diversor de Flujo",
+                "Archivo": "neu_6",
+                "Sintesis": "N/A"
+            },
+            {
+                "Categoria": "Tratamiento por Diversión de Flujo",
+                "Titulo": "Pipeline",
+                "Tipo": "Diversor de Flujo",
+                "Archivo": "neu_6",
+                "Sintesis": "N/A"
+            }
+        ]
+    },
+    {
+        "Producto": "MAV’S Y FISTULAS A-V",
+        "Productos": [
+            {
+                "Categoria": "Embolización",
+                "Titulo": "Onyx",
+                "Tipo": "Líquido embólico",
+                "Archivo": "neu_7",
+                "Sintesis": "With a track record of over 200,000 units sold, OnyxTM LES has earned the confidence of physicians worldwide. Our proven professional education curriculum forms a true partnership in patient care. Along with a full suite of compatible Access products, no one offers more solutions for embolization. "
+            },
+            {
+                "Categoria": "Acceso",
+                "Titulo": "Marathon",
+                "Tipo": "Microcatéteres de Flujo",
+                "Archivo": "neu_8",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            },
+            {
+                "Categoria": "Acceso",
+                "Titulo": "Apollo",
+                "Tipo": "Punta Desprendible",
+                "Archivo": "neu_9",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            },
+            {
+                "Categoria": "Acceso",
+                "Titulo": "Mirage",
+                "Tipo": "Microguía 0.008”",
+                "Archivo": "neu_10",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            }
+        ]
+    },
+    {
+        "Producto": "STROKE",
+        "Productos": [
+            {
+                "Categoria": "Rescate Vascular Mecánico y Angioplastí",
+                "Titulo": "Solitaire FR",
+                "Tipo": "Stent Recuperable de Liberación Controlada",
+                "Archivo": "neu_11",
+                "Sintesis": "We believe in answering the needs of healthcare professionals involved in revascularization by building peer-to-peer networks.Our goal is to develop meaningful opportunities in sharing best practices through our renowned Stroke Centers of Excellence and to build interactions between stroke units around the world.This program is run in partnership with world class European stroke centers using the most advanced tools, protocols and techniques. The faculty includes world-renowned neurologists and interventional neuroradiologists  From: Karolinska Institute, Stockholm, Sweden. Inselspital,Bern,Switzerland. Gui-de-Chauliac,Montpellier,France"
+            }
+        ]
+    },
+    {
+        "Producto": "Embolización de Tumores",
+        "Productos": [
+            {
+                "Categoria": "Tumores Neurovasculares",
+                "Titulo": "Embosphere",
+                "Tipo": "Microesferas",
+                "Archivo": "neu_12",
+                "Sintesis": "With a track record of over 200,000 units sold, OnyxTM LES has earned the confidence of physicians worldwide. Our proven professional education curriculum forms a true partnership in patient care. Along with a full suite of compatible Access products, no one offers more solutions for embolization."
+            },
+            {
+                "Categoria": "Tumores Neurovasculares",
+                "Titulo": "Onyx",
+                "Tipo": "Líquido Embólico",
+                "Archivo": "neu_13",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            }
+        ]
+    },
+    {
+        "Producto": "Carótidas",
+        "Productos": [
+            {
+                "Categoria": "Agiplastía Carotídea",
+                "Titulo": "Protégé Rx y  SpiderFx",
+                "Tipo": "Stent Carotídeo y Filtro de Protección Distal",
+                "Archivo": "neu_14",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            }
+        ]
+    },
+    {
+        "Producto": "varios",
+        "Productos": [
+            {
+                "Categoria": "Recuperación de cuerpos Extraños",
+                "Titulo": "Goose Neck Microsnare",
+                "Tipo": "Lazo Amplatz",
+                "Archivo": "neu_15",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+            },
+            {
+                "Categoria": "Recuperación de cuerpos Extraños",
+                "Titulo": "Alligator",
+                "Tipo": "Recuperador de Cuerpos Extraños",
+                "Archivo": "neu_16",
+                "Sintesis": "Atraumatic Design And Ease Of Use Alligator’s atraumatic gripping arms are easily deployed by simply advancing or retreating the microcatheter when adjacent to the target—WITHOUT additional levers or controls. This allows for positive and direct grasping, engagement of the foreign body at any point, “hands-on” sensitivity, and optimized retrieval during critical procedures."
+            },
+            {
+                "Categoria": "Medición de Tiempo de Coagulación Activado ACT",
+                "Titulo": "Actalyke MINI II",
+                "Tipo": "",
+                "Archivo": "neu_17",
+                "Sintesis": "The MINI II is the simplest, least expensive instrument available, for activated clotting time testing, yet it retains high sensitivity, 2-point clot detection for greatest reliability. Performance, linearity and CVs parallel larger Actalyke analyzers. It’s ideal for use in the catheterization or the surgical suite. Optional battery pack available."
+            }
+        ]
+    }
+]

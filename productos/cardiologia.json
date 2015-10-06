@@ -1,0 +1,248 @@
+[
+    {
+        "Producto": "Estructural y congénitos",
+        "Productos": [
+            {
+                "Categoria": "Comunicación Inter-Auticular (CIA)",
+                "Titulo": "Amplatzer ASD",
+                "Tipo": "Oclusor",
+                "Archivo": "card_1",
+                "Sintesis": "Los AMPLATZER Septal Occluders constituyen el estándar de tratamiento para el cierre mínimamente invasivo de la comunicación interauricular (ASD). Estos oclusores de doble disco están compuestos por una malla de Nitinol con tejido de poliéster. Se diseñan para implantar en el tabique auricular a ambos lados de la comunicación, creando una plataforma para el crecimiento de tejido tras la implantación."
+            },
+            {
+                "Categoria": "Persistencia del Conducti Arterioso (PCA)",
+                "Titulo": "Amplatzer PDA Oclusor Amplatzer PDA II",
+                "Tipo": "Oclusor",
+                "Archivo": "card_2",
+                "Sintesis": "El ductus arterioso permeable (PDA) es una de las anomalías congénitas más comunes.1 La familia de Duct Occluders AMPLATZER ofrece una línea amplia y creciente de dispositivos y una opción de tratamiento sencilla para la oclusión del PDA. Los distintos oclusores de ductus han sido diseñados para la oclusión de PDA de distintas formas y tamaños. Con un diseño de fácil liberación de el facultativo puede implantar el dispositivo con alta precisión.."
+            },
+            {
+                "Categoria": "Foramen Oval Permeable (PFO)",
+                "Titulo": "Amplatzer PFO",
+                "Tipo": "Oclusor",
+                "Archivo": "card_3",
+                "Sintesis": "El AMPLATZER PFO Occulder es un doble disco con mallado de Nitinol y poliéster que puede ser fácilmente recapturado y redesplegado para conseguir una implantación precisa. Los discos están conectados por una cintura estrecha y flexible que optimiza la forma. Las marcas radiopacas y el mallado de Nitinol están diseñados para tener una buena visibilidad bajo fluoroscopía. "
+            },
+            {
+                "Categoria": "Comunicación Inter-Ventricular (CIV)",
+                "Titulo": "Amplatzer VSD",
+                "Tipo": "Oclusor",
+                "Archivo": "card_4",
+                "Sintesis": "El AMPLATZER Muscular VSD Occluder y el P.I. Muscular VSD Occluder son dispositivos auto expandibles, de doble disco y fabricados con una malla de Nitinol. Los dos discos de estos dispositivos están unidos por una cintura que corresponde al tamaño de la Comunicación Inter Ventricular (CIV)."
+            },
+            {
+                "Categoria": "Coartación Aórtica (CoAo)",
+                "Titulo": "IntraStent LD",
+                "Tipo": "Stent Desmontado",
+                "Archivo": "card_5",
+                "Sintesis": "nnovative Design With the LD series, ev3 engineers have created a product group that combines the features of fl exibility, strength and coverage in ways not found in other large lumen stents."
+            },
+            {
+                "Categoria": "Fistulas y colaterales",
+                "Titulo": "Amplatzer Vascular Plug",
+                "Tipo": "Tapón Vascular",
+                "Archivo": "card_6",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "Categoria": "Trasplante y Miocardiopatía",
+                "Titulo": "Jawz",
+                "Tipo": "Fórceps para Biopsia Endomiocárdica",
+                "Archivo": "card_7",
+                "Sintesis": "Handle: Three-ringed handle adapts to and maintains desired thumb position. Precision molded to provide a solid “instrument” feelShaft. Available in Stainless Steel or PTFE Coated. Available in Straight, PreCurved and MaxiCurvedconfigurations to provide the best patient access. Available in formable and non-formable configurations tobest suit your desired technique. Cutting Head. Unique cutting edge design allows superior surfacealignment to provide a clean cut. Cutting jaws precision machined from a proprietary alloy toremain sharp throughout the procedure. Safe. Single use, disposable unit eliminates the risk of.contamination"
+            },
+            {
+                "Categoria": "Atresia pulmonar",
+                "Titulo": "Nykanen",
+                "Tipo": "Guía de Radiofrecuencia",
+                "Archivo": "card_8",
+                "Sintesis": "The Nykanen RF Wire is designed to create a controlled puncture by delivering radiofrequency energy. Physicians have used the wire when treating conditions associated with pulmonary atresia, hypoplastic left heart with intact atrial septum, and vascular occlusions."
+            },
+            {
+                "Categoria": "Punción Transeptal",
+                "Titulo": "NRG",
+                "Tipo": "Aguja de Punción Transeptal por Radiofrecuencia",
+                "Archivo": "card_9",
+                "Sintesis": "Baylis Medical is committed to innovations in transseptal punctures. Our transseptal products are designed to provide a smooth and controlled transseptal puncture."
+            },
+            {
+                "Categoria": "Punción Transeptal",
+                "Titulo": "TorFlex",
+                "Tipo": "Introductor Transeptal",
+                "Archivo": "card_10",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "Categoria": "Punción Transeptal",
+                "Titulo": "Baylis RF Generator",
+                "Tipo": "Generador de Radiofrecuencia",
+                "Archivo": "card_11",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            }
+        ]
+    },
+    {
+        "Producto": "Coronarios",
+        "Productos": [
+            {
+                "Categoria": "Stent Liberador de Novolimus",
+                "Titulo": "DESyne",
+                "Tipo": "",
+                "Archivo": "card_12",
+                "Sintesis": "eSyne® stent — theSyne® stent — the next generation drug eluting stent with improved performance and superior clinical efficacy and safety1. Engineered on a clinically — proven cobalt chromium platform, the novel design and formula XTM drug/ polymer coating technology allows for thin struts, lowest polymer load2, and lowest drug concentration2 of any dES on the market today.e next generation drug "
+            },
+            {
+                "Categoria": "Stent Coronario Cubierto de Pericardio",
+                "Titulo": "Aneugraft Dx",
+                "Tipo": "",
+                "Archivo": "card_13",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "Categoria": "Casos Difíciles y Oclusiones Totales Crónicas (CTO)",
+                "Titulo": "GuideLiner V3",
+                "Tipo": "Extensión de Catéter Guía",
+                "Archivo": "card_14",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "Categoria": "Casos Difíciles y Oclusiones Totales Crónicas (CTO)",
+                "Titulo": "SuperCross | Punta Flexible y Angulado",
+                "Tipo": "Microcatéteres Coronarios",
+                "Archivo": "card_15",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "Categoria": "Casos Difíciles y Oclusiones Totales Crónicas (CTO)",
+                "Titulo": "SuperCross | Gopher Gold",
+                "Tipo": "Microcatéteres Coronarios",
+                "Archivo": "card_16",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "Categoria": "Trombectomía",
+                "Titulo": "Pronto V4",
+                "Tipo": "Catéteres de Tromboaspiración Mecánica",
+                "Archivo": "card_17",
+                "Sintesis": " Embedded longitudinal wire enhances deliverability and kink resistance Uniformly large extraction lumen maximizes thrombus extraction Lubricious hydrophilic coating promotes vessel navigation and trackability Patented Silva distal tip provides vessel protection Full range of 5.5F, 6F, 7F and 8F sizes"
+            },
+            {
+                "Categoria": "Trombectomía",
+                "Titulo": "Pronto LP",
+                "Tipo": "Catéteres de Tromboaspiración Mecánica",
+                "Archivo": "card_18",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "Categoria": "Accesorios y Hemostásis",
+                "Titulo": "Guardian II",
+                "Tipo": "Válvula Hemostática",
+                "Archivo": "card_19",
+                "Sintesis": "The Guardian hemostasis valves are intended to maintain hemostasis during the use of diagnostic or interventional devices. Guardian hemostasis valves are indicated for maintaining a seal around diagnostic/ interventional devices with outside diameters up to 8F (0.105 or 2.67mm) during diagnostic/interventional procedures. The torque device is provided as an aid for steering the guidewire within the vascular anatomy. Closure of the high pressure seal on the Guardian hemostasis valves allows for pressure injections up to 600psi (40 atm or 4100 kPA)."
+            },
+            {
+                "Categoria": "Accesorios y Hemostásis",
+                "Titulo": "D-Stat Dry",
+                "Tipo": "Parche Hemostático",
+                "Archivo": "card_20",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "Categoria": "Accesorios y Hemostásis",
+                "Titulo": "D-Stat Rad-Band",
+                "Tipo": "Banda Hemostática Radial",
+                "Archivo": "card_21",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "Categoria": "Simplificación en la Inyección de Contraste",
+                "Titulo": "ACIST CVi",
+                "Tipo": "Sistema de Inyección de Contraste",
+                "Archivo": "card_22",
+                "Sintesis": "Sistema de administración de contraste ACIST CVi: el sistema sofisticado que simplifica la inyección de contraste de TODOS sus procedimientos de cardiología tanto quirúrgicos como diagnósticos, desde inyecciones pequeñas en las arterias coronarias, hasta volúmenes grandes en los ventrículos y en la vasculatura periférica. "
+            },
+            {
+                "Categoria": "Fisiología Coronaria FFR",
+                "Titulo": "PressureWire Radi Certus",
+                "Tipo": "Guía de Presión",
+                "Archivo": "card_23",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "Categoria": "Fisiología Coronaria FFR",
+                "Titulo": "PressureWire Radi Aeris",
+                "Tipo": "Guía de Presión Inalámbrica",
+                "Archivo": "card_24",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "Categoria": "Fisiología Coronaria FFR",
+                "Titulo": "QUANTIEN",
+                "Tipo": "Equipo para Medición de FFR",
+                "Archivo": "card_25",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "Categoria": "Diagnóstico Coronario",
+                "Titulo": "Angios Classic Oscor",
+                "Tipo": "Catéteres Diagnóstico",
+                "Archivo": "card_26",
+                "Sintesis": "Oscor’s Angios® line of diagnostic catheters features a proprietary HD Braid reinforced shaft which allows for smooth advancement. At the same time, the sheath maintains its curve, allows for a high flow rate of contrast media injection, and has a soft radiopaque catheter tip to minimize vessel trauma. Oscor’s Angios® diagnostic catheters are available in a variety of curves, sizes and lengths. One single catheter provided per box. Maximum Recommended Guidewire 0.038”"
+            },
+            {
+                "Categoria": "Diagnóstico Coronario",
+                "Titulo": "Adelante Sigma Oscor",
+                "Tipo": "Introductores",
+                "Archivo": "card_27",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "Categoria": "Diagnóstico Coronario",
+                "Titulo": "Langston",
+                "Tipo": "Catéter Pigtail Doble Lumen",
+                "Archivo": "card_28",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            }
+        ]
+    },
+    {
+        "Producto": "Varios",
+        "Productos": [
+            {
+                "Categoria": "Medición de Tiempo de Coagulación Activado ACT",
+                "Titulo": "Actalyke Mini II",
+                "Tipo": "",
+                "Archivo": "card_29",
+                "Sintesis": "The MINI II is the simplest, least expensive instrument available, for activated clotting time testing, yet it retains high sensitivity, 2-point clot detection for greatest reliability. Performance, linearity and CVs parallel larger Actalyke analyzers. It’s ideal for use in the catheterization or the surgical suite. Optional battery pack available."
+            },
+            {
+                "Categoria": "Angiográficos",
+                "Titulo": "Art-Line",
+                "Tipo": "Transductor de Presión Invasiva Biometrix",
+                "Archivo": "card_30",
+                "Sintesis": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+            },
+            {
+                "Categoria": "Tromboembolia Pulmonar TEP",
+                "Titulo": "Pronto 0.035”",
+                "Tipo": "Catéter de Tromboaspiración Mecánica",
+                "Archivo": "card_31",
+                "Sintesis": "The Pronto .035” is indicated for:  the removal/aspiration of embolic material (thrombus/debris) from vessels of the arterial system the removal/aspiration of embolic material (thrombus/debris) from vessels of the deep venous system to infuse/deliver diagnostic or therapeutic agents"
+            },
+            {
+                "Categoria": "Cable para Marcapasos Temporal",
+                "Titulo": "TB Oscor",
+                "Tipo": "",
+                "Archivo": "card_32",
+                "Sintesis": "TB is a bipolar temporary pacing lead used for temporary ventricular or atrial pacing in conjunction with a temporary pacemaker. Oscor’s TB Series are available in a variety of curve configurations, and french sizes.."
+            },
+            {
+                "Categoria": "Camisas tipo Mullins",
+                "Titulo": "Adelante Breezeway Oscor",
+                "Tipo": "",
+                "Archivo": "card_33",
+                "Sintesis": "heAdelante®Breezeway® GuidingSheathwithHemostaticValveis intended for the percutaneous introduction of various types of cardiovascular catheters to all heart chambers, including transseptal puncture. The Adelante® Breezeway® is available in several size, length and curve configurations."
+            }
+        ]
+    }
+]

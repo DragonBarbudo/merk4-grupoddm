@@ -1,0 +1,10 @@
+[{
+  "Producto" : "",
+  "Productos" : [{
+    "Categoria"  : "",
+    "Titulo"     : "",
+    "Tipo"       : "",
+    "Archivo"    : "card_",
+    "Sintesis"   : "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+  }]
+}]
